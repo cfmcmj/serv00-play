@@ -10,7 +10,7 @@
 ## 安装说明
 
 ```s
-bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh) --install
+bash <(curl -Ls https://raw.githubusercontent.com/cfmcmj/serv00-play/main/start.sh) --install
 ```
 
 ## 变量说明
